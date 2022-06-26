@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yomibam
-- 👀 I’m interested in web development, product design and photography
-- 🌱 I’m currently learning front end web development
+- 👀 I’m interested in blockchain development
+- 🌱 I’m currently learning web3 development
 - 💞️ I’m looking to collaborate on any web development project
 - 📫 How to reach me by email; yomibamidele23@gmail.com
 
