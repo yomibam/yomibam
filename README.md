@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yomibam
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning web3 development
-- 💞️ I’m looking to collaborate on any web development project
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning IBM Full Stack Software Development
+- 💞️ I’m looking to collaborate on any software development project
 - 📫 How to reach me by email; yomibamidele23@gmail.com
 
 <!---
