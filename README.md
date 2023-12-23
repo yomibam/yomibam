@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yomibam
+- 👋 Hi, I’m Oluwayomi Bamidele
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning IBM Full Stack Software Development
 - 💞️ I’m looking to collaborate on any software development project
