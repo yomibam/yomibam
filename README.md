@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oluwayomi Bamidele
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning IBM Full Stack Software Development
+- 👀 I’m interested in Software Development and Leadership
+- 🌱 I’m currently working as a Tech Lead and Software Engineer
 - 💞️ I’m looking to collaborate on any software development project
 - 📫 How to reach me by email; yomibamidele23@gmail.com
 
